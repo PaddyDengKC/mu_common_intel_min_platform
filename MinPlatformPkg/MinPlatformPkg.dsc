@@ -190,9 +190,7 @@
 
   MinPlatformPkg/PlatformInit/ReportFv/ReportFvPei.inf
   MinPlatformPkg/PlatformInit/PlatformInitPei/PlatformInitPreMem.inf
-  # MU_CHANGE [BEGIN] For MU repo pipeline requirement
   MinPlatformPkg/PlatformInit/PlatformInitPei/PlatformInitPreMemNonFsp.inf
-  # MU_CHANGE [END]
   MinPlatformPkg/PlatformInit/PlatformInitPei/PlatformInitPostMem.inf
   MinPlatformPkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.inf
   MinPlatformPkg/PlatformInit/PlatformInitSmm/PlatformInitSmm.inf
