@@ -51,7 +51,7 @@ UINT8
 EFIAPI
 FspGetModeSelection (
   VOID
-);
+  );
 
 /**
 
